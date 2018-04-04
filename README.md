@@ -1,1 +1,1 @@
-![Save the Date for Paula and Ken](/PAULEEKEN_SAvethedate.jpg)
+![Save the date for Paula and Ken](http://paulaandken.us/PAULEEKEN_Savethedate.jpg)
