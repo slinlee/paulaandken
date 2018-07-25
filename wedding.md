@@ -82,7 +82,7 @@ Stockholm | Sweden
 
 ### Miss Clara Hotel
 
-We have a room block available with multiple options at the Miss Clara Hotel in Norrmalm. We'll be staying here and this is where the bus will drop everyone off after the reception.
+We have a room block available with multiple options at the Miss Clara Hotel in the Norrmalm neighborhood of Stockholm. We'll be staying here and this is where the bus will drop everyone off after the reception.
 
 [Miss Clara Hotel](https://missclarahotel.com/) - [Room Descriptions](https://missclarahotel.com/rooms)
 
@@ -98,7 +98,6 @@ Rebecka Wirf
 <br>Meetings & Events Coordinator
 <br>+46 (0)8 440 67 50
 <br>[reservation@missclarahotel.com](mailto:reservation@missclarahotel.com)
-
 
 </div>
 </section>
