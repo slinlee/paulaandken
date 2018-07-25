@@ -89,20 +89,23 @@ We have a room block available with multiple options at the Miss Clara Hotel in 
 | Standard Single | Sleeps 1 | $180/1590 SEK per night |
 | Standard Double | Sleeps 2 | $205/1790 SEK per night |
 | Superior Double | Sleeps 2 | $239/2090 SEK per night |
-| Deluxe Double | Sleeps 2 | $239/2090 SEK per night |
+| Deluxe Double | Sleeps 2 | $273/2390 SEK per night |
 | Etage Suite | Sleeps 2 | $400/3500 SEK per night |
 
-*Please contact Rebecka Wirf directly and mention Paula Lee and Ken Lee's room block to reserve a room at a discounted rate. The block is only available until August 30. The hotel may also be available on SPG or Chase Travel.*
+*Please contact Rebecka Wirf directly and mention Paula Lee and Ken Lee's room block to reserve a room at a discounted rate. The discounted rate is only available until August 30. The hotel may also be available using points via SPG or Chase Rewards.*
 
 Rebecka Wirf
 <br>Meetings & Events Coordinator
 <br>+46 (0)8 440 67 50
 <br>[reservation@missclarahotel.com](mailto:reservation@missclarahotel.com)
 
+
 </div>
 </section>
+
 <section class="wrapper style2 special">
 <div class="inner" markdown="1">
+
 
 [Email us if you have any questions at all!](mailto:kennethl+wedding@gmail.com){:.button}
 
