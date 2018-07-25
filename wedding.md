@@ -74,6 +74,7 @@ Stockholm | Sweden
 ###### Please dress appropriately for the weather and especially for the boat ride. Stockholm averages 55 F in early October.
 
 </div>
+</div>
 </section>
 <section class="wrapper style5">
 <div class="inner" markdown="1">
