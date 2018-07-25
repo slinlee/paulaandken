@@ -12,6 +12,8 @@ permalink: /kp/
 ## Paula + Ken
 Stockholm | Sweden
 
+Please RSVP by August 24
+
   </div>
 </section>
 
@@ -102,6 +104,12 @@ Rebecka Wirf
 <br>[reservation@missclarahotel.com](mailto:reservation@missclarahotel.com)
 
 
+</div>
+</section>
+
+<section class="wrapper style2 special">
+<div class="inner" markdown="1">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6igH1VS6hoJAtD5wYQ4s09BnLZBYQ3iVeF6CCJToSgAEzdQ/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
 </section>
 
