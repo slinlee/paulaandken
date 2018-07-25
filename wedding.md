@@ -9,7 +9,7 @@ permalink: /kp/
   <div class="inner" markdown="1">
 
 
-## Daisy + Slin
+## Paula + Ken
 We're Getting Married!
 
 
@@ -20,7 +20,7 @@ We're Getting Married!
 <div class="inner" markdown="1">
 <header class="major" markdown="1">
 
-## Updates: 
+# Updates: 
 - **Feb 4, 2017:** **Book your flights and accommodations and send us the details!** The deadline for hotels is March 1. The AirBnb we mentioned below is full already :(
     
     You're also invited to our [banquet in the San Francisco Bay Area in August](/banquet).
@@ -60,8 +60,12 @@ Can't make it to Iceland? Join us at our [reception in the San Francisco Bay Are
 
 ### Here's what we have planned for us all together
 
-| July 1 | Travel day - most people are getting on planes to Iceland. |
-| July 2 | Most guests arrive in Reykjavik.<br><br>**Stay in Reykjavik on your own** |
+| Friday, October 5th - 6 - 10 PM | Welcome Dinner at an Organic Farm
+<br><a href="http://www.rosendalstradgard.se/in-english/">Rosendals Trädgård</a> - <a href="https://goo.gl/maps/xL4M4WgS61K2">Rosendalsvägen 38, 115 21 Stockholm, Sweden</a>
+<br><i>Dressy casual</i>|
+| Saturday, October 6th - 2 - 3 PM| Wedding Ceremony 
+<br>St. Eric's Cathedral - <a href="https://goo.gl/maps/af1iivMnYZr"Folkungagatan 46, 118 26 Stockholm, Sweden</a>
+<br><i>Formal Attire</i>|
 | July 3 | [Golden Circle Tour](https://www.youtube.com/watch?v=5wXZMTk-6G4). Welcome dinner and stay overnight in Hella. <br><br>**Reykjavik -> Golden Circle Tour -> Hella** |
 | July 4 | Ceremony and Reception. Tour of the South West Coast, including [Black Sand Beach](https://goo.gl/photos/sSjPPJhyUTnQtUyK6), and [Skogafoss](https://goo.gl/photos/UdTQwEXaF5pJkBVXA) and [Seljalandsfoss](https://goo.gl/photos/7B5dhAfQUy8sPYAJA) waterfalls. Stay overnight in Hella. <br><br>**Hella -> Wedding -> Tour of South West Coast -> Reception -> Hella** |
 | July 5 | Brunch at Horse Farm (Horses are for riding, not for eating 🐎). Return to Reykjavik by afternoon. You're on your own after we get back to Reykjavik!<br><br>**Hella -> Brunch -> Reykjavik**|
