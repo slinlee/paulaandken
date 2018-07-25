@@ -23,6 +23,7 @@ Stockholm | Sweden
  
 ###### In the fall of 2016, we visited Artipelag as part of a trip to Scandinavia. So much about the museum appealed to us - the sleek design that nods to "The Glass House," its manageable size and in particular, its magical location in woodsy surroundings. 
  
+ <img src="/images/wedding/artipelag_entrance.jpg" height="50%" width="50%">
 [insert photos - Artipelag exterior + Andy Warhol photo booth]
  
 ###### When it came time to choose a location for the wedding, we wanted to settle on a place that spoke to both of us. Artipelag melds contemporary art and nature into one package, a combination that feels right as our wedding venue because it reflects our separate interests that have become increasingly shared. It also speaks to the coupling that we are, a synergy of disparate yet complementary qualities.
@@ -93,7 +94,7 @@ We have a room block available with multiple options at the Miss Clara Hotel in 
 | Deluxe Double | Sleeps 2 | $273/2390 SEK per night |
 | Etage Suite | Sleeps 2 | $400/3500 SEK per night |
 
-*Please contact Rebecka Wirf directly and mention Paula Lee and Ken Lee's room block to reserve a room at a discounted rate. The discounted rate is only available until August 30. The hotel may also be available using points via SPG or Chase Rewards.*
+*Please contact Rebecka Wirf directly and mention Paula Lee's room block to reserve a room at a discounted rate. The discounted rate is only available until August 30. The hotel may also be available using points via SPG or Chase Rewards.*
 
 Rebecka Wirf
 <br>Meetings & Events Coordinator
