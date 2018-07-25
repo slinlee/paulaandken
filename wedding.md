@@ -64,9 +64,9 @@ Can't make it to Iceland? Join us at our [reception in the San Francisco Bay Are
 | Friday, October 5th - 6 - 10 PM | Welcome Dinner at an Organic Farm<br>[Rosendals Trädgård](http://www.rosendalstradgard.se/in-english/)<br>[Rosendalsvägen 38, 115 21 Stockholm, Sweden](https://goo.gl/maps/xL4M4WgS61K2)<br><br>*Dressy casual*  |
 | Saturday, October 6th - 2 - 3 PM  | Wedding Ceremony<br>St. Eric's Cathedral<br>[Folkungagatan 46, 118 26 Stockholm, Sweden](https://goo.gl/maps/af1iivMnYZr)<br><br>*Formal Attire*  |
 | Saturday, October 6th - 3:30 - 5 PM  | Boat Ride to Artipelag<br>[Nybrokajen Harbor](https://goo.gl/maps/tejd9CRFi132)<br>Board a classic, turn-of-the-century ship for a cruise through the Stockholm Archpelago to Artipelag<br>*Bus transportation wlil be provided from the ceremony to the harbor* |
-| Saturday, October 6th - 5 - 12 PM  | Cocktails, Dinner, and Dancing<br>[Artipelag Museum](https://artipelag.se/en/)(https://goo.gl/maps/tejd9CRFi132)<br>*Bus transportation will be provided from the museum to Miss Clara hotel at the end of the night* | Saturday, October 6 - 12 PM - 2 AM | After Party - TBD |
+| Saturday, October 6th - 5 - 12 PM  | Cocktails, Dinner, and Dancing<br>[Artipelag Museum](https://artipelag.se/en/)(https://goo.gl/maps/tejd9CRFi132)<br>*Bus transportation will be provided from the museum to Miss Clara hotel at the end of the night*| | Saturday, October 6 - 12 PM - 2 AM | After Party - TBD |
 
-Please dress appropriately for the weather. Stockholm averages 55 F in early October.
+######Please dress appropriately for the weather. Stockholm averages 55 F in early October.
 
 </div>
 </section>
