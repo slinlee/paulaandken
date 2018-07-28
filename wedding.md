@@ -122,14 +122,5 @@ Rebecka Wirf
 
   See you there! 😀
 
-<div class="box alt">
-<div class="row">
-<span class="image fit" markdown="1">
-
-  ![](/images/wedding/bike-wedding.jpg)
-
-</span>
-</div>
-</div>
 </div>
 </section>
