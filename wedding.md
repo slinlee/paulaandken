@@ -61,7 +61,6 @@ Please RSVP by August 24
 </section>
 <section class="wrapper alt style5">
 <div class="spotlight">
-<div class="image"><img src="/images/wedding/waterfall.jpg"></div>
 <div class="content" markdown="1">
 
 ### Celebration Schedule
