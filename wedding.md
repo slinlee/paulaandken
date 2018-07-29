@@ -60,7 +60,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 </div>
 </section>
 <section class="wrapper style5">
-<div class="content" markdown="1">
+<div class="inner" markdown="1">
 
 ### Celebration Schedule
 
