@@ -59,8 +59,7 @@ Please RSVP by August 24
 
 </div>
 </section>
-<section class="wrapper alt style5">
-<div class="spotlight">
+<section class="wrapper style5">
 <div class="content" markdown="1">
 
 ### Celebration Schedule
@@ -75,7 +74,6 @@ Please RSVP by August 24
 
 ###### Please dress appropriately for the weather and especially for the boat ride. Stockholm averages 55 F in early October.
 
-</div>
 </div>
 </section>
 <section class="wrapper style5">
