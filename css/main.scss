@@ -1430,6 +1430,12 @@ $baseurl: '{{ site.baseurl }}/images';
 						padding: 0 1.5em;
 						text-transform: uppercase;
 
+						&.button {
+							position: relative;
+							margin-top: 4px;
+							margin-right: 20px;
+						}
+
 						&.menuToggle {
 							outline: 0;
 							position: relative;
