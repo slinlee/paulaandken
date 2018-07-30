@@ -1,7 +1,7 @@
 ---
 layout: landing-wedding
 title: Paula and Ken
-permalink: /kp/
+permalink: /
 
 ---
 
