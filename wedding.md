@@ -9,7 +9,7 @@ permalink: /
   <div class="inner" markdown="1">
 
 
-## Paula + Ken
+## Paula and Ken
 Stockholm | Sweden
 
 [Please RSVP by August 24](https://goo.gl/forms/6C8o60ct7j0OxMdJ2){: .button }{:target="_blank"}
@@ -24,30 +24,29 @@ Stockholm | Sweden
 
 ## CELEBRATE
  
-In the fall of 2016, we visited Artipelag as part of a trip to Scandinavia. So much about the museum appealed to us - the sleek design that nods to "The Glass House," its manageable size and in particular, its magical location in woodsy surroundings. 
+In the fall of 2016, we visited Artipelag as part of a trip to Scandinavia. So much about this museum appealed to us - the sleek glass-walled architecture, the manageable size of the exhibition (on Warhol at the time) and in particular, its magical pine forest surroundings.
  
 <img src="/images/wedding/artipelag_entrance.jpg" width="100%">
  
-When it came time to choose a location for the wedding, we wanted to settle on a place that spoke to both of us. Artipelag melds contemporary art and nature into one package, a combination that feels right as our wedding venue because it reflects our separate interests that have become increasingly shared. It also speaks to the coupling that we are, a synergy of disparate yet complementary qualities.
+When it came time to choose a location for our wedding, we wanted a place that spoke to both of us. Artipelag melds contemporary art and nature into one experience, which feels right as our wedding venue because it mirrors us, reflecting our separate interests that have become increasingly shared. It is a metaphor to our coupling, a synergy of disparate yet complementary qualities.
  
-We're so excited for this October! We can't wait to celebrate with you in one of our favorite corners of the world.
- 
+As we prepare for the wedding, we've been thinking a lot about the friends and family who have helped shape us individually and have supported us as a couple. You mean so much to us and we can't wait to celebrate with you in one of our favorite corners of the world. We love you! 
  
 ## OUR STORY
  
-Ken and I met at a bar in Manhattan on a fall evening in 2013. It was someone's birthday, which in those days was a reason to go out. I remember heading out for the night with low expectations, as meeting someone meaningful felt achingly out of reach at the time. But when I met Ken, I immediately felt hopeful.
+One fall evening in 2013, Paula made a fateful decision – instead of cozying up in her UWS studio with a Netflix DVD, she went out. It was Friday night, after all, and she was single. Paula made her way over to Liberty Bar, an Irish pub near K-town where someone she knew was having a birthday party.
+         	
+Ken also made a fateful decision, one he still makes nearly every weekend - to stay out that Friday night, which began for him at happy hour and ended at his fourth stop, Liberty Bar. When introduced to Paula, he was on his thirteenth drink that evening yet remained impressively coherent.
  
-I took note, approvingly, that Ken's shirt fit well and felt positively about his liquid-fueled confidence. I tricked Ken into thinking I was athletic by mentioning the century rides I had done earlier that year. Seeing that his phone's lock screen photo was one of Machu Picchu, we discussed the respective hikes we did there. I knew that I felt potential because I patiently repeated myself when he asked the same basic questions, paced in 20 minute intervals (I.e. "where are you from?"). When he asked for my number, I shared it. 
+Paula was instantly taken by the fit of Ken’s shirt and his liquid-fueled confidence. She also liked that Ken had set a photo of Machu Picchu as his iPhone background, as she had also done the trek. Ken was impressed by Paula’s drink order of Jameson on the rocks and was tricked into thinking Paula was athletic by her casual mention of the century bicycle rides she had done that year. He asked for her number and then jotted down observations about her into his phone: Wharton, Whitney/Cerritos, Cannondale, Amazing.
  
-That hope persisted as we started to date. In the ensuing years, I've felt loved, protected and secure. I've experienced his selflessness. I know I am lucky.
+Ken waited two days to text Paula, per “The Game.” She was at The Brooklyn Book Festival and knew how to play that game, too - she waited to text him back until later that evening. They went on their first date at Kashkaval (RIP), a casual Mediterranean wine bar in Midtown West. It went just okay but not so badly that Paula would refuse a second date - so, they met again at Khe-Yo in Tribeca where Ken made an outsized impression by showing up in a tailored suit. Sparks were reignited. Dates three and four followed in quick succession, where they shared about their families, discussed their dreams and deepened their connection.
+~
+Their fifth date was at The Rose Bar in Gramercy, three weeks after they first met. With the sound of Brian Newman’s trumpet in the background, Ken took Paula’s hand and asked an old-fashioned question, “Will you be my girlfriend?” It was made official in the following moment, when both their Coffee Meets Bagel accounts were summarily deleted.
  
-This past November, Ken planned a "Paula-day" and we went to see the 'Josef Albers in Mexico' exhibit at The Guggenheim. Between the museum and a pre-planned dinner with my brother Matthew and his wife Eunice, we took a detour stop in Central Park. Ken loves Central Park, a place of nature in concrete NYC, and we always swing by when near it. But I knew something was up on this visit because of his insistence that we get there before the "sun goes down."
-   
+The next time Ken asked Paula an old-fashioned question while holding her hand was at a bench in Central Park, four years later. By then, Paula knew that Ken was The One. She had felt his love early on, when he had spent his Saturdays helping her do laundry at the laundromat down the street from her walk-up. She found his tendencies endearing – how he ensured all their devices were always charged, how he thoroughly read every placard he came upon, whether at a museum or while walking by a random statue, and even how he vigilantly placed coasters beneath every beverage at their hosted get-togethers. She loved laughing with him and how he made her feel secure and prioritized. As for Ken, he had felt sure of Paula since he took those notes about her on Day 1.
  
-I've never cried so much on a single day - when he proposed, when I realized Ken had planted my brother and Eunice as covert photographers to capture the moment, when we swung by The West in Williamsburg post-dinner and I realized Ken had gathered all our NY-based friends there as a surprise. Ken cried too, but just during the proposal. 
- 
-As we prepare for the wedding, we've been thinking a lot about the friends and family who have helped shape us individually and have supported us as a couple. You mean so much to us and we hope you can come celebrate as we commit to forever. We love you!
-  
+Almost five years to the day they became a couple, Paula and Ken will commit to forever with their dearest friends and family in Stockholm, Sweden.
 
 </header>
 
