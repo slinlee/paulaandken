@@ -27,14 +27,12 @@ Stockholm | Sweden
  
 In the fall of 2016, we visited Artipelag as part of a trip to Scandinavia. So much about the museum appealed to us - the sleek design that nods to "The Glass House," its manageable size and in particular, its magical location in woodsy surroundings. 
  
- <img src="/images/wedding/artipelag_entrance.jpg" height="50%" width="50%">
-[insert photos - Artipelag exterior + Andy Warhol photo booth]
+<img src="/images/wedding/artipelag_entrance.jpg" width="100%">
  
 When it came time to choose a location for the wedding, we wanted to settle on a place that spoke to both of us. Artipelag melds contemporary art and nature into one package, a combination that feels right as our wedding venue because it reflects our separate interests that have become increasingly shared. It also speaks to the coupling that we are, a synergy of disparate yet complementary qualities.
  
 We're so excited for this October! We can't wait to celebrate with you in one of our favorite corners of the world.
  
-[insert photos of Paula+Ken] 
  
 ## OUR STORY
  
@@ -45,17 +43,12 @@ I took note, approvingly, that Ken's shirt fit well and felt positively about hi
 That hope persisted as we started to date. In the ensuing years, I've felt loved, protected and secure. I've experienced his selflessness. I know I am lucky.
  
 This past November, Ken planned a "Paula-day" and we went to see the 'Josef Albers in Mexico' exhibit at The Guggenheim. Between the museum and a pre-planned dinner with my brother Matthew and his wife Eunice, we took a detour stop in Central Park. Ken loves Central Park, a place of nature in concrete NYC, and we always swing by when near it. But I knew something was up on this visit because of his insistence that we get there before the "sun goes down."
+   
  
-[insert photo of exhibit]   
- 
-I've never cried so much on a single day - when he proposed, when I realized Ken had planted my brother and Eunice as covert photographers to capture the moment, when we swung by The West in Williamsburg post-dinner and I realized Ken had gathered all our NY-based friends there as a surprise. Ken cried too, but just during the proposal.
- 
-[insert photos of proposal + video of proposal + pic of friends @ The West ]   
+I've never cried so much on a single day - when he proposed, when I realized Ken had planted my brother and Eunice as covert photographers to capture the moment, when we swung by The West in Williamsburg post-dinner and I realized Ken had gathered all our NY-based friends there as a surprise. Ken cried too, but just during the proposal. 
  
 As we prepare for the wedding, we've been thinking a lot about the friends and family who have helped shape us individually and have supported us as a couple. You mean so much to us and we hope you can come celebrate as we commit to forever. We love you!
- 
-[insert photos of friends/family + us?]   
-
+  
 
 </header>
 
