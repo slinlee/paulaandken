@@ -69,8 +69,8 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 | Time | Activity |
 | 2 - 3 PM  | **Wedding Ceremony** <br> St. Eric's Cathedral <br> [Folkungagatan 46, 118 26 Stockholm, Sweden](https://goo.gl/maps/af1iivMnYZr) <br><br> *Formal Attire*  |
 | 3:30 - 5 PM  | **Boat Ride to Artipelag** <br> [Nybrokajen Harbor](https://goo.gl/maps/tejd9CRFi132) <br> Board a classic, turn-of-the-century ship for a cruise through the Stockholm Archpelago to Artipelag <br><br> *Bus transportation will be provided from the ceremony to the harbor* |
-| 5 - 12 PM  | **Cocktails, Dinner, and Dancing** <br> [Artipelag Museum](https://artipelag.se/en/)(https://goo.gl/maps/tejd9CRFi132) <br><br> *Bus transportation will be provided from the museum to Miss Clara hotel at the end of the night*| 
-| 12 PM - 2 AM | **After Party** <br> TBD |
+| 5 PM - 12 AM  | **Cocktails, Dinner, and Dancing** <br> [Artipelag Museum](https://artipelag.se/en/)(https://goo.gl/maps/tejd9CRFi132) <br><br> *Bus transportation will be provided from the museum to Miss Clara hotel at the end of the night*| 
+| 12 - 2 AM | **After Party** <br> TBD |
 
 Please dress appropriately for the weather and especially for the boat ride. Stockholm averages 55 F in early October.
 
