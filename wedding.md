@@ -106,12 +106,6 @@ Rebecka Wirf
 
 <section class="wrapper style2 special">
 <div class="inner" markdown="1">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6igH1VS6hoJAtD5wYQ4s09BnLZBYQ3iVeF6CCJToSgAEzdQ/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-</div>
-</section>
-
-<section class="wrapper style2 special">
-<div class="inner" markdown="1">
 
 
 [Email us if you have any questions at all!](mailto:kennethl+wedding@gmail.com){:.button}
