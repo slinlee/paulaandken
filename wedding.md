@@ -12,7 +12,7 @@ permalink: /
 ## Paula + Ken
 Stockholm | Sweden
 
-[Please RSVP by August 24](https://goo.gl/forms/6C8o60ct7j0OxMdJ2){: .button .special}{:target="_blank"}
+[Please RSVP by August 24](https://goo.gl/forms/6C8o60ct7j0OxMdJ2){: .button }{:target="_blank"}
 
 
   </div>
