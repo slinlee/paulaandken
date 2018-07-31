@@ -26,7 +26,7 @@ Stockholm | Sweden
  
 In the fall of 2016, we visited Artipelag as part of a trip to Scandinavia. So much about this museum appealed to us - the sleek glass-walled architecture, the manageable size of the exhibition (on Warhol at the time) and in particular, its magical pine forest surroundings.
  
-<center><img src="/images/wedding/Warhol_Rotated.jpg" height="600"><img src="/images/wedding/PAULEEKEN_Savethedate.jpg" height="600"></center>
+<center><img src="/images/wedding/Warhol_Rotated.jpg" height="500"><img src="/images/wedding/PAULEEKEN_Savethedate.jpg" height="500"></center>
  
 When it came time to choose a location for our wedding, we wanted a place that spoke to both of us. Artipelag melds contemporary art and nature into one experience, which feels right as our wedding venue because it mirrors us, reflecting our separate interests that have become increasingly shared.
  
