@@ -26,7 +26,7 @@ Stockholm | Sweden
  
 In the fall of 2016, we visited Artipelag as part of a trip to Scandinavia. So much about this museum appealed to us - the sleek glass-walled architecture, the manageable size of the exhibition (on Warhol at the time) and in particular, its magical pine forest surroundings.
  
-<center><img src="/images/wedding/Warhol_Rotated.jpg" width="50%"><img src="/images/wedding/PAULEEKEN_Savethedate.jpg" width="50%"></center>
+<center><img src="/images/wedding/Warhol_Rotated.jpg" height="600"><img src="/images/wedding/PAULEEKEN_Savethedate.jpg" height="600"></center>
  
 When it came time to choose a location for our wedding, we wanted a place that spoke to both of us. Artipelag melds contemporary art and nature into one experience, which feels right as our wedding venue because it mirrors us, reflecting our separate interests that have become increasingly shared.
  
@@ -44,8 +44,8 @@ Ken waited two days to text Paula, per “The Game.” She was at The Brooklyn B
 
 Their fifth date was at The Rose Bar in Gramercy, three weeks after they first met. With the sound of Brian Newman’s trumpet in the background, Ken took Paula’s hand and asked an old-fashioned question, “Will you be my girlfriend?” It was made official in the following moment, when both their Coffee Meets Bagel accounts were summarily deleted.
 
- <center><img src="/images/wedding/Paula and Ken with Brian Newman.jpg" width="50%"></center>
- Paula and Ken with Jazz Musician [Brian Newman](http://www.briannewman.com/). October 15, 2013
+ <center><img src="/images/wedding/Paula and Ken with Brian Newman_Rotated.jpg" width="50%"></center>
+ <font="-3">Paula and Ken with Jazz Musician [Brian Newman](http://www.briannewman.com/). October 15, 2013</font>
  
 The next time Ken asked Paula an old-fashioned question while holding her hand was at a bench in Central Park, four years later. By then, Paula knew that Ken was The One. She had felt his love early on, when he had spent his Saturdays helping her do laundry at the laundromat down the street from her walk-up. She found his tendencies endearing – how he ensured all their devices were always charged, how he thoroughly read every placard he came upon, whether at a museum or while walking by a random statue, and even how he vigilantly placed coasters beneath every beverage at their hosted get-togethers. She loved laughing with him and how he made her feel secure and prioritized. As for Ken, he had felt sure of Paula since he took those notes about her on Day 1.
  
