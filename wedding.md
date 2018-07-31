@@ -26,30 +26,6 @@ Stockholm | Sweden
  
 In the fall of 2016, we visited Artipelag as part of a trip to Scandinavia. So much about this museum appealed to us - the sleek glass-walled architecture, the manageable size of the exhibition (on Warhol at the time) and in particular, its magical pine forest surroundings.
  
- <section id="two" class="wrapper alt style2">
-						<section class="spotlight">
-							<div class="image"><img src="/images/wedding/Warhol_Rotated.jpg" height="500" alt=""></div><div class="content">
-								<h2>Magna primis lobortis<br>
-								sed ullamcorper</h2>
-								<p>When it came time to choose a location for our wedding, we wanted a place that spoke to both of us. Artipelag melds contemporary art and nature into one experience, which feels right as our wedding venue because it mirrors us, reflecting our separate interests that have become increasingly shared.</p>
-							</div>
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt=""></div><div class="content">
-								<h2>Tortor dolore feugiat<br>
-								elementum magna</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt=""></div><div class="content">
-								<h2>Augue eleifend aliquet<br>
-								sed condimentum</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-						</section>
-					</section>
-          
 <img src="/images/wedding/Warhol_Rotated.jpg" height="500"><img src="/images/wedding/PAULEEKEN_Savethedate.jpg" height="500"></center>
  
 When it came time to choose a location for our wedding, we wanted a place that spoke to both of us. Artipelag melds contemporary art and nature into one experience, which feels right as our wedding venue because it mirrors us, reflecting our separate interests that have become increasingly shared.
@@ -88,11 +64,12 @@ Almost five years to the day they became a couple, Paula and Ken will commit to 
 
 | Time | Activity |
 | -------------------- | ------------- |
-| 6 - 10 PM | **Welcome Dinner at an Organic Farm** <br> [Rosendals Trädgård](http://www.rosendalstradgard.se/in-english/) <br> [Rosendalsvägen 38, 115 21 Stockholm, Sweden](https://goo.gl/maps/xL4M4WgS61K2) <br><br> *Dressy casual*<br><br>Rosendals Garden is located at Royal Djurgården, behind Skansen.<br> Go by tram no 7 from Kungsträdgården towards Waldemarsudde to the Bellmansro stop. From here it is a five minute walk to the garden.<br>By taxi/uber use the GPS address Rosendalsvägen 38. |
+| 6 - 10 PM | **Welcome Dinner at an Organic Farm** <br> [Rosendals Trädgård](http://www.rosendalstradgard.se/in-english/) <br> [Rosendalsvägen 38, 115 21 Stockholm, Sweden](https://goo.gl/maps/xL4M4WgS61K2) <br><br> *Dressy casual*<br><br>Rosendals Garden is located at Royal Djurgården, behind Skansen.<br> Go by tram no 7 from Kungsträdgården towards Waldemarsudde to the Bellmansro stop.<br>From here it is a five minute walk to the garden.<br>By taxi/uber use the GPS address Rosendalsvägen 38. |
 
 #### Saturday, October 6th
 
 | Time | Activity |
+| -------------------- | ------------- |
 | 2 - 3 PM  | **Wedding Ceremony** <br> St. Eric's Cathedral <br> [Folkungagatan 46, 118 26 Stockholm, Sweden](https://goo.gl/maps/af1iivMnYZr) <br><br> *Formal Attire*<br><br>Doors open at 1:30 PM, ceremony starts promptly at 2:00 PM.|
 | 3:30 - 5 PM  | **Boat Ride to Artipelag** <br> [Nybrokajen Harbor](https://goo.gl/maps/tejd9CRFi132) <br> Board a classic, turn-of-the-century ship for a cruise through the Stockholm Archpelago to Artipelag <br><br> *Bus transportation will be provided from the ceremony to the harbor* |
 | 5 PM - 12 AM  | **Cocktails, Dinner, and Dancing** <br> [Artipelag Museum](https://artipelag.se/en/)(https://goo.gl/maps/tejd9CRFi132) <br><br> *Bus transportation will be provided from the museum to the Miss Clara hotel at the end of the night*| 
