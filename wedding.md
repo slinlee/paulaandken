@@ -44,8 +44,8 @@ Ken waited two days to text Paula, per “The Game.” She was at The Brooklyn B
 
 Their fifth date was at The Rose Bar in Gramercy, three weeks after they first met. With the sound of Brian Newman’s trumpet in the background, Ken took Paula’s hand and asked an old-fashioned question, “Will you be my girlfriend?” It was made official in the following moment, when both their Coffee Meets Bagel accounts were summarily deleted.
 
- <center><img src="/images/wedding/Paula and Ken with Brian Newman_Rotated.jpg" width="50%"></center><br>
- *With Jazz Musician [Brian Newman](http://www.briannewman.com/). October 15, 2013*
+ <center><img src="/images/wedding/Paula and Ken with Brian Newman_Rotated.jpg" width="50%"><br>
+ *With Jazz Musician [Brian Newman](http://www.briannewman.com/). October 15, 2013*</center>
  
 The next time Ken asked Paula an old-fashioned question while holding her hand was at a bench in Central Park, four years later. By then, Paula knew that Ken was The One. She had felt his love early on, when he had spent his Saturdays helping her do laundry at the laundromat down the street from her walk-up. She found his tendencies endearing – how he ensured all their devices were always charged, how he thoroughly read every placard he came upon, whether at a museum or while walking by a random statue, and even how he vigilantly placed coasters beneath every beverage at their hosted get-togethers. She loved laughing with him and how he made her feel secure and prioritized. As for Ken, he had felt sure of Paula since he took those notes about her on Day 1.
  
