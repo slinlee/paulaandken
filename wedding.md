@@ -75,7 +75,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/4 years at Falling Water_rotated.jpg" alt=""><font size="1"><i>At Fallingwater in Mill Run, PA. October 14, 2017M</i></font></div><div class="content">
+							<div class="image"><img src="images/wedding/4 years at Falling Water_rotated.jpg" alt=""><font size="1"><i>At Fallingwater in Mill Run, PA. October 14, 2017</i></font></div><div class="content">
 								<p>Almost five years to the day they became a couple, Paula and Ken will commit to forever with their dearest friends and family in Stockholm, Sweden.
 
 </p>
