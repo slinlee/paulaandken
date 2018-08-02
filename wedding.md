@@ -48,7 +48,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 							</div>
 						</section>
 						<section class="spotlight">
-	<div class="image"><img src="images/wedding/Ken phone.jpg" alt=""><font size="1"><i>The notes are still in Ken’s phone, plus two addendums later in 2013.</i></font></div><div class="content">
+	<div class="image"><img src="images/wedding/Ken phone.jpg" alt=""><font size="1"><i>The notes are still in Ken’s phone, plus two addendums.</i></font></div><div class="content">
 								<p>Paula was instantly taken by the fit of Ken’s shirt and his liquid-fueled confidence. She also liked that Ken had set a photo of Machu Picchu as his iPhone background, as she had also done the trek. Ken was impressed by Paula’s drink order of Jameson on the rocks and was tricked into thinking Paula was athletic by her casual mention of the century bicycle rides she had done that year. He asked for her number and then jotted down observations about her into his phone: Wharton, Whitney/Cerritos, Cannondale, Amazing.
 
 </p>
