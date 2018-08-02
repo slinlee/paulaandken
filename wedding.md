@@ -37,14 +37,16 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 <section id="two" class="wrapper alt style2">
 						<section class="spotlight">
 							<div class="image"><img src="images/wedding/Paula drink.jpg" alt=""></div><div class="content">
-								<p>One fall evening in 2013, Paula made a fateful decision – instead of cozying up in her UWS studio with a Netflix DVD, she went out. It was Friday night, after all, and she was single. Paula made her way over to Liberty Bar near K-town where someone she knew was having a birthday party.</p>
+	<h3>One fall evening in 2013,</h3>
+								<p>Paula made a fateful decision – instead of cozying up in her UWS studio with a Netflix DVD, she went out. It was Friday night, after all, and she was single. Paula made her way over to Liberty Bar near K-town where someone she knew was having a birthday party.</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt=""></div><div class="content">
-								<h2>Tortor dolore feugiat<br>
-								elementum magna</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+							<div class="image"><img src="images/wedding/Ken drink.jpg" alt=""></div><div class="content">
+								<h3>Ken also made a fateful decision,<br>
+								</h3>
+								<p> one he still makes nearly every weekend - to stay out that Friday night, which began for him at happy hour and ended at his fourth stop, Liberty Bar. When introduced to Paula, he was on his thirteenth drink that evening yet remained impressively coherent.
+</p>
 							</div>
 						</section>
 						<section class="spotlight">
