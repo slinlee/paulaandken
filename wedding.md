@@ -38,7 +38,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 						<section class="spotlight">
 							<div class="image"><img src="images/wedding/Paula drink_rotated.jpg" alt=""></div><div class="content">
 	<h5>One fall evening in 2013...</h5>
-								<p><font size="3">Paula made a fateful decision – instead of cozying up in her UWS studio with a Netflix DVD, she went out. It was Friday night, after all, and she was single. Paula made her way over to Liberty Bar near K-town where someone she knew was having a birthday party.</font></p>
+								<p>Paula made a fateful decision – instead of cozying up in her UWS studio with a Netflix DVD, she went out. It was Friday night, after all, and she was single. Paula made her way over to Liberty Bar near K-town where someone she knew was having a birthday party.</p>
 							</div>
 						</section>
 						<section class="spotlight">
@@ -48,7 +48,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 							</div>
 						</section>
 						<section class="spotlight">
-	<div class="image"><img src="images/wedding/Ken phone.jpg" alt=""><font size="1"><i>The notes are still in Ken’s phone, plus two addendums.</i></font></div><div class="content">
+	<div class="image"><img src="images/wedding/Ken phone.jpg" alt=""><font size="1"><i> The notes are still in Ken’s phone, plus two addendums.</i></font></div><div class="content">
 								<p>Paula was instantly taken by the fit of Ken’s shirt and his liquid-fueled confidence. She also liked that Ken had set a photo of Machu Picchu as his iPhone background, as she had also done the trek. Ken was impressed by Paula’s drink order of Jameson on the rocks and was tricked into thinking Paula was athletic by her casual mention of the century bicycle rides she had done that year. He asked for her number and then jotted down observations about her into his phone: Wharton, Whitney/Cerritos, Cannondale, Amazing.
 
 </p>
@@ -62,7 +62,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/Paula and Ken with Brian Newman_Rotated.jpg" alt=""><font size="1"><i>With Jazz Musician Brian Newman. October 15, 2013</i></font></div><div class="content">
+							<div class="image"><img src="images/wedding/Paula and Ken with Brian Newman_Rotated.jpg" alt=""><font size="1"><i> With Jazz Musician Brian Newman. October 15, 2013</i></font></div><div class="content">
 								
 								<p>Their fifth date was at The Rose Bar in Gramercy, three weeks after they first met. With the sound of Brian Newman’s trumpet in the background, Ken took Paula’s hand and asked an old-fashioned question, “Will you be my girlfriend?” It was made official in the following moment, when both their Coffee Meets Bagel accounts were summarily deleted.
 </p>
@@ -75,7 +75,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/4 years at Falling Water_rotated.jpg" alt=""><font size="1"><i>At Fallingwater in Mill Run, PA. October 14, 2017</i></font></div><div class="content">
+							<div class="image"><img src="images/wedding/4 years at Falling Water_rotated.jpg" alt=""><font size="1"><i> At Fallingwater in Mill Run, PA. October 14, 2017</i></font></div><div class="content">
 								<p>Almost five years to the day they became a couple, Paula and Ken will commit to forever with their dearest friends and family in Stockholm, Sweden.
 
 </p>
