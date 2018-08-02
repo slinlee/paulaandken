@@ -38,7 +38,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 						<section class="spotlight">
 							<div class="image"><img src="images/wedding/Paula drink_rotated.jpg" alt=""></div><div class="content">
 	<h5>One fall evening in 2013...</h5>
-								<br>Paula made a fateful decision – instead of cozying up in her UWS studio with a Netflix DVD, she went out. It was Friday night, after all, and she was single. Paula made her way over to Liberty Bar near K-town where someone she knew was having a birthday party.</p>
+								<p>Paula made a fateful decision – instead of cozying up in her UWS studio with a Netflix DVD, she went out. It was Friday night, after all, and she was single. Paula made her way over to Liberty Bar near K-town where someone she knew was having a birthday party.</p>
 							</div>
 						</section>
 						<section class="spotlight">
