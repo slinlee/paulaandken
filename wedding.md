@@ -43,43 +43,40 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 						</section>
 						<section class="spotlight">
 							<div class="image"><img src="images/wedding/Ken drink.jpg" alt=""></div><div class="content">
-								<h5>Ken also made a fateful decision...<br>
-								</h5>
-								<p> one he still makes nearly every weekend - to stay out that Friday night, which began for him at happy hour and ended at his fourth stop, Liberty Bar. When introduced to Paula, he was on his thirteenth drink that evening yet remained impressively coherent.
+								<p>Ken also made a fateful decision, one he still makes nearly every weekend - to stay out that Friday night, which began for him at happy hour and ended at his fourth stop, Liberty Bar. When introduced to Paula, he was on his thirteenth drink that evening yet remained impressively coherent.
 </p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/Ken phone.jpg" alt="" border="5"></div><div class="content">
-								<h5>Paula was instantly taken...</h5>
-								<p>by the fit of Ken’s shirt and his liquid-fueled confidence. She also liked that Ken had set a photo of Machu Picchu as his iPhone background, as she had also done the trek. Ken was impressed by Paula’s drink order of Jameson on the rocks and was tricked into thinking Paula was athletic by her casual mention of the century bicycle rides she had done that year. He asked for her number and then jotted down observations about her into his phone: Wharton, Whitney/Cerritos, Cannondale, Amazing.
+							<div class="image"><img src="images/wedding/Ken phone.jpg" alt="iPhone Screenshot"></div><div class="content">
+								<p>Paula was instantly taken by the fit of Ken’s shirt and his liquid-fueled confidence. She also liked that Ken had set a photo of Machu Picchu as his iPhone background, as she had also done the trek. Ken was impressed by Paula’s drink order of Jameson on the rocks and was tricked into thinking Paula was athletic by her casual mention of the century bicycle rides she had done that year. He asked for her number and then jotted down observations about her into his phone: Wharton, Whitney/Cerritos, Cannondale, Amazing.
+
 </p>
 							</div>
 						</section>
 						<section class="spotlight">
 							<div class="image"><img src="images/wedding/kashkaval.jpg" alt=""></div><div class="content">
-								<h5>Ken waited two days...</h5>
-								<p>to text Paula, per “The Game.” She was at The Brooklyn Book Festival and knew how to play that game, too - she waited to text him back until later that evening. They went on their first date at Kashkaval (RIP), a casual Mediterranean wine bar in Midtown West. It went just okay but not so badly that Paula would refuse a second date - so, they met again at Khe-Yo in Tribeca where Ken made an outsized impression by showing up in a tailored suit. Sparks were reignited. Dates three and four followed in quick succession, where they shared about their families, discussed their dreams and deepened their connection.
+								<p>Ken waited two days to text Paula, per “The Game.” She was at The Brooklyn Book Festival and knew how to play that game, too - she waited to text him back until later that evening. They went on their first date at Kashkaval (RIP), a casual Mediterranean wine bar in Midtown West. It went just okay but not so badly that Paula would refuse a second date - so, they met again at Khe-Yo in Tribeca where Ken made an outsized impression by showing up in a tailored suit. Sparks were reignited. Dates three and four followed in quick succession, where they shared about their families, discussed their dreams and deepened their connection.
+
 </p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/Paula and Ken with Brian Newman_Rotated.jpg" alt="">With Jazz Musician Brian Newman. October 15, 2013</div><div class="content">
+							<div class="image"><img src="images/wedding/Paula and Ken with Brian Newman_Rotated.jpg" alt="">*With Jazz Musician Brian Newman. October 15, 2013*</div><div class="content">
 								
-								<p>Their fifth date was at The Rose Bar in Gramercy, three weeks after they first met. With the sound of Brian Newman’s trumpet in the background, Ken took Paula’s hand and asked an old-fashioned question, “Will you be my girlfriend?” It was made official in the following moment, when both their Coffee Meets Bagel accounts were summarily deleted.</p>
+								<p>Their fifth date was at The Rose Bar in Gramercy, three weeks after they first met. With the sound of Brian Newman’s trumpet in the background, Ken took Paula’s hand and asked an old-fashioned question, “Will you be my girlfriend?” It was made official in the following moment, when both their Coffee Meets Bagel accounts were summarily deleted.
+</p>
 							</div>
 						</section>
 						<section class="spotlight">
 							<div class="image"><img src="images/wedding/Proposal.jpg" alt=""><h6>The Dene Slope in Central Park. November 4, 2017</h6></div><div class="content">
-								<h5>The next time...</h5>
-								<p>Ken asked Paula an old-fashioned question while holding her hand was at a bench in Central Park, four years later. By then, Paula knew that Ken was The One. She had felt his love early on, when he had spent his Saturdays helping her do laundry at the laundromat down the street from her walk-up. She found his tendencies endearing – how he ensured all their devices were always charged, how he thoroughly read every placard he came upon, whether at a museum or while walking by a random statue, and even how he vigilantly placed coasters beneath every beverage at their hosted get-togethers. She loved laughing with him and how he made her feel secure and prioritized. As for Ken, he had felt sure of Paula since he took those notes about her on Day 1.
+								<p>The next time Ken asked Paula an old-fashioned question while holding her hand was at a bench in Central Park, four years later. By then, Paula knew that Ken was The One. She had felt his love early on, when he had spent his Saturdays helping her do laundry at the laundromat down the street from her walk-up. She found his tendencies endearing – how he ensured all their devices were always charged, how he thoroughly read every placard he came upon, whether at a museum or while walking by a random statue, and even how he vigilantly placed coasters beneath every beverage at their hosted get-togethers. She loved laughing with him and how he made her feel secure and prioritized. As for Ken, he had felt sure of Paula since he took those notes about her on Day 1.
 </p>
 							</div>
 						</section>
 						<section class="spotlight">
 							<div class="image"><img src="images/wedding/4 years at Falling Water_rotated.jpg" alt=""><h6>At Fallingwater in Mill Run, PA. October 14, 2017</h6></div><div class="content">
-								<h5>Almost five years...</h5>
-								<p>to the day they became a couple, Paula and Ken will commit to forever with their dearest friends and family in Stockholm, Sweden.
+								<p>Almost five years to the day they became a couple, Paula and Ken will commit to forever with their dearest friends and family in Stockholm, Sweden.
 
 </p>
 							</div>
