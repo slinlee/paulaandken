@@ -62,7 +62,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/brian_newman.jpg" alt=""><font size="1"><i>&nbsp;Jazz Musician <a href="http://www.briannewman.com/">Brian Newman</a>. October 15, 2013.</i></font></div><div class="content">
+							<div class="image"><img src="images/wedding/brian_newman.jpg" alt=""><font size="1"><i>&nbsp;Jazz Musician <a href="http://www.briannewman.com/">Brian Newman</a>. October 15, 2013</i></font></div><div class="content">
 								
 								<p>Their fifth date was at The Rose Bar in Gramercy, three weeks after they first met. With the sound of Brian Newman’s trumpet in the background, Ken took Paula’s hand and asked an old-fashioned question, “Will you be my girlfriend?” It was made official in the following moment, when both their Coffee Meets Bagel accounts were summarily deleted.
 </p>
