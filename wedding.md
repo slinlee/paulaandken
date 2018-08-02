@@ -24,13 +24,13 @@ Stockholm | Sweden
 
 ## CELEBRATE
  
-In the fall of 2016, we visited Artipelag as part of a trip to Scandinavia. So much about this museum appealed to us - the sleek glass-walled architecture, the manageable size of the exhibition (on Warhol at the time) and in particular, its magical pine forest surroundings.
+<font size="5">In the fall of 2016, we visited Artipelag as part of a trip to Scandinavia. So much about this museum appealed to us - the sleek glass-walled architecture, the manageable size of the exhibition (on Warhol at the time) and in particular, its magical pine forest surroundings.
  
 <img src="/images/wedding/Warhol_Rotated.jpg" height="500"><img src="/images/wedding/PAULEEKEN_Savethedate.jpg" height="500">
  
 When it came time to choose a location for our wedding, we wanted a place that spoke to both of us. Artipelag melds contemporary art and nature into one experience, which feels right as our wedding venue because it mirrors us, reflecting our separate interests that have become increasingly shared.
  
-As we prepare for the wedding, we've been thinking a lot about the friends and family who have helped shape us individually and have supported us as a couple. You mean so much to us and we can't wait to celebrate with you in one of our favorite corners of the world.
+As we prepare for the wedding, we've been thinking a lot about the friends and family who have helped shape us individually and have supported us as a couple. You mean so much to us and we can't wait to celebrate with you in one of our favorite corners of the world.</font>
  
 ## OUR STORY
 
@@ -48,7 +48,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/Ken phone.jpg" alt="iPhone Screenshot"></div><div class="content">
+							<div class="image"><img src="images/wedding/Ken phone.jpg" alt=""><font size="1">The notes are still in Ken’s phone, plus two addendums later in 2013.</font></div><div class="content">
 								<p>Paula was instantly taken by the fit of Ken’s shirt and his liquid-fueled confidence. She also liked that Ken had set a photo of Machu Picchu as his iPhone background, as she had also done the trek. Ken was impressed by Paula’s drink order of Jameson on the rocks and was tricked into thinking Paula was athletic by her casual mention of the century bicycle rides she had done that year. He asked for her number and then jotted down observations about her into his phone: Wharton, Whitney/Cerritos, Cannondale, Amazing.
 
 </p>
@@ -69,13 +69,13 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/Proposal.jpg" alt=""><h6>The Dene Slope in Central Park. November 4, 2017</h6></div><div class="content">
+							<div class="image"><img src="images/wedding/Proposal.jpg" alt=""><font size ="1">The Dene Slope in Central Park. November 4, 2017</font></div><div class="content">
 								<p>The next time Ken asked Paula an old-fashioned question while holding her hand was at a bench in Central Park, four years later. By then, Paula knew that Ken was The One. She had felt his love early on, when he had spent his Saturdays helping her do laundry at the laundromat down the street from her walk-up. She found his tendencies endearing – how he ensured all their devices were always charged, how he thoroughly read every placard he came upon, whether at a museum or while walking by a random statue, and even how he vigilantly placed coasters beneath every beverage at their hosted get-togethers. She loved laughing with him and how he made her feel secure and prioritized. As for Ken, he had felt sure of Paula since he took those notes about her on Day 1.
 </p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/4 years at Falling Water_rotated.jpg" alt=""><h6>At Fallingwater in Mill Run, PA. October 14, 2017</h6></div><div class="content">
+							<div class="image"><img src="images/wedding/4 years at Falling Water_rotated.jpg" alt=""><font size="1">At Fallingwater in Mill Run, PA. October 14, 2017</font></div><div class="content">
 								<p>Almost five years to the day they became a couple, Paula and Ken will commit to forever with their dearest friends and family in Stockholm, Sweden.
 
 </p>
