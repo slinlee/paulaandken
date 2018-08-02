@@ -37,23 +37,23 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 <section id="two" class="wrapper alt style2">
 						<section class="spotlight">
 							<div class="image"><img src="images/wedding/Paula drink.jpg" alt=""></div><div class="content">
-	<h3>One fall evening in 2013,</h3>
+	<h4>One fall evening in 2013...</h4>
 								<p>Paula made a fateful decision – instead of cozying up in her UWS studio with a Netflix DVD, she went out. It was Friday night, after all, and she was single. Paula made her way over to Liberty Bar near K-town where someone she knew was having a birthday party.</p>
 							</div>
 						</section>
 						<section class="spotlight">
 							<div class="image"><img src="images/wedding/Ken drink.jpg" alt=""></div><div class="content">
-								<h3>Ken also made a fateful decision,<br>
-								</h3>
+								<h4>Ken also made a fateful decision...<br>
+								</h4>
 								<p> one he still makes nearly every weekend - to stay out that Friday night, which began for him at happy hour and ended at his fourth stop, Liberty Bar. When introduced to Paula, he was on his thirteenth drink that evening yet remained impressively coherent.
 </p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt=""></div><div class="content">
-								<h2>Augue eleifend aliquet<br>
-								sed condimentum</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+							<div class="image"><img src="images/wedding/Ken phone.jpg" alt="">The notes are still in Ken’s phone, plus two addendums later in 2013.</div><div class="content">
+								<h4>Paula was instantly taken...</h4>
+								<p>by the fit of Ken’s shirt and his liquid-fueled confidence. She also liked that Ken had set a photo of Machu Picchu as his iPhone background, as she had also done the trek. Ken was impressed by Paula’s drink order of Jameson on the rocks and was tricked into thinking Paula was athletic by her casual mention of the century bicycle rides she had done that year. He asked for her number and then jotted down observations about her into his phone: Wharton, Whitney/Cerritos, Cannondale, Amazing.
+</p>
 							</div>
 						</section>
 					</section>
