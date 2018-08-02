@@ -33,6 +33,28 @@ When it came time to choose a location for our wedding, we wanted a place that s
 As we prepare for the wedding, we've been thinking a lot about the friends and family who have helped shape us individually and have supported us as a couple. You mean so much to us and we can't wait to celebrate with you in one of our favorite corners of the world.
  
 ## OUR STORY
+
+<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/wedding/paula drink.jpg" alt=""></div><div class="content">
+								<p>One fall evening in 2013, Paula made a fateful decision – instead of cozying up in her UWS studio with a Netflix DVD, she went out. It was Friday night, after all, and she was single. Paula made her way over to Liberty Bar near K-town where someone she knew was having a birthday party.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic02.jpg" alt=""></div><div class="content">
+								<h2>Tortor dolore feugiat<br>
+								elementum magna</h2>
+								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic03.jpg" alt=""></div><div class="content">
+								<h2>Augue eleifend aliquet<br>
+								sed condimentum</h2>
+								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+							</div>
+						</section>
+					</section>
  
 One fall evening in 2013, Paula made a fateful decision – instead of cozying up in her UWS studio with a Netflix DVD, she went out. It was Friday night, after all, and she was single. Paula made her way over to Liberty Bar near K-town where someone she knew was having a birthday party.
          	
