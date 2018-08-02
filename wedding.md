@@ -36,7 +36,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 
 <section id="two" class="wrapper alt style2">
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/Paula drink.jpg" alt=""></div><div class="content">
+							<div class="image"><img src="images/wedding/Paula drink_rotated.jpg" alt=""></div><div class="content">
 	<h5>One fall evening in 2013...</h5>
 								<p>Paula made a fateful decision – instead of cozying up in her UWS studio with a Netflix DVD, she went out. It was Friday night, after all, and she was single. Paula made her way over to Liberty Bar near K-town where someone she knew was having a birthday party.</p>
 							</div>
@@ -64,20 +64,20 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/Proposal.jpg" alt=""></div><div class="content">
+							<div class="image"><img src="images/wedding/Paula and Ken with Brian Newman_Rotated.jpg" alt=""><h6>With Jazz Musician Brian Newman. October 15, 2013</h6></div><div class="content">
 								<h5>Their fifth date...</h5>
 								<p>was at The Rose Bar in Gramercy, three weeks after they first met. With the sound of Brian Newman’s trumpet in the background, Ken took Paula’s hand and asked an old-fashioned question, “Will you be my girlfriend?” It was made official in the following moment, when both their Coffee Meets Bagel accounts were summarily deleted.</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/Paula and Ken with Brian Newman_Rotated.jpg" alt=""></div><div class="content">
+							<div class="image"><img src="images/wedding/Proposal.jpg" alt=""><h6>The Dene Slope in Central Park. November 4, 2017</h6></div><div class="content">
 								<h5>The next time...</h5>
 								<p>Ken asked Paula an old-fashioned question while holding her hand was at a bench in Central Park, four years later. By then, Paula knew that Ken was The One. She had felt his love early on, when he had spent his Saturdays helping her do laundry at the laundromat down the street from her walk-up. She found his tendencies endearing – how he ensured all their devices were always charged, how he thoroughly read every placard he came upon, whether at a museum or while walking by a random statue, and even how he vigilantly placed coasters beneath every beverage at their hosted get-togethers. She loved laughing with him and how he made her feel secure and prioritized. As for Ken, he had felt sure of Paula since he took those notes about her on Day 1.
 </p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/4 years at Falling Water.jpg" alt=""></div><div class="content">
+							<div class="image"><img src="images/wedding/4 years at Falling Water_rotated.jpg" alt=""><h6>At Fallingwater in Mill Run, PA. October 14, 2017</h6></div><div class="content">
 								<h5>Almost five years...</h5>
 								<p>to the day they became a couple, Paula and Ken will commit to forever with their dearest friends and family in Stockholm, Sweden.
 
