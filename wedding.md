@@ -55,14 +55,14 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/central_park.jpg" alt=""></div><div class="content">
+							<div class="image"><img src="images/wedding/central_park.jpg" alt=""><font size="3">&nbsp;In Central Park in November 2013.</div><div class="content">
 								<p>Ken waited two days to text Paula, per “The Game.” She was at The Brooklyn Book Festival and knew how to play that game, too - she waited to text him back until later that evening. They went on their first date at Kashkaval (RIP), a casual Mediterranean wine bar in Midtown West. It went just okay but not so badly that Paula would refuse a second date - so, they met again at Khe-Yo in Tribeca where Ken made an outsized impression by showing up in a tailored suit. Sparks were reignited. Dates three and four followed in quick succession, where they shared about their families, discussed their dreams and deepened their connection.
 
 </p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/wedding/brian_newman.jpg" alt=""><font size="1"><i>&nbsp;With Jazz Musician Brian Newman. October 15, 2013</i></font></div><div class="content">
+							<div class="image"><img src="images/wedding/brian_newman.jpg" alt=""><font size="1"><i>&nbsp;At the Rose Bar with Jazz Musician Brian Newman. October 15, 2013</i></font></div><div class="content">
 								
 								<p>Their fifth date was at The Rose Bar in Gramercy, three weeks after they first met. With the sound of Brian Newman’s trumpet in the background, Ken took Paula’s hand and asked an old-fashioned question, “Will you be my girlfriend?” It was made official in the following moment, when both their Coffee Meets Bagel accounts were summarily deleted.
 </p>
