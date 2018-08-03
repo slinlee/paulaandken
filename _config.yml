@@ -13,3 +13,6 @@ url: "http://paulaandken.us" # the base hostname & protocol for your site
 markdown: kramdown
 #sass:
 #  style: compressed
+
+# Google Analytics
+google_analytics: UA-123355526-1
