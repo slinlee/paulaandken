@@ -101,7 +101,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 
 | Time | Activity |
 | -------------------- | ------------- |
-| 2 - 3 PM  | **Wedding Ceremony** <br> St. Eric's Cathedral <br> [Folkungagatan 46, 118 26 Stockholm, Sweden](https://goo.gl/maps/af1iivMnYZr) <br><br> *Formal Attire*<br><br>Doors open at 1:30 PM, ceremony starts promptly at 2:00 PM.|
+| 2 - 3 PM  | **Wedding Ceremony** <br> St. Eric's Cathedral <br> [Folkungagatan 46, 118 26 Stockholm, Sweden](https://goo.gl/maps/af1iivMnYZr) <br><br>Doors open at 1:30 PM, ceremony starts promptly at 2:00 PM.<br><br> *Formal Attire<br>Adults-only Celebration* |
 | 3:30 - 5 PM  | **Boat Ride to Artipelag** <br> [Nybrokajen Harbor](https://goo.gl/maps/tejd9CRFi132) <br> Board a classic, turn-of-the-century ship for a cruise through the Stockholm Archpelago to Artipelag <br><br> *Bus transportation will be provided from the ceremony to the harbor* |
 | 5 PM - 12 AM  | **Cocktails, Dinner, and Dancing** <br> [Artipelag Museum](https://artipelag.se/en/)<br><br> *Bus transportation will be provided from the museum to the Miss Clara hotel at the end of the night*| 
 | 12 - 2 AM | **After Party** <br> TBD |
