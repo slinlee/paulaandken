@@ -49,7 +49,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 						</section>
 						<section class="spotlight">
 	<div class="image"><img src="images/wedding/Ken phone.jpg" alt=""><font size="1"><i>&nbsp;The notes are still in Ken’s phone, plus two addendums.</i></font></div><div class="content">
-								<p>Paula was instantly taken by the fit of Ken’s shirt and his liquid-fueled confidence. She also liked that Ken had set a photo of Machu Picchu as his iPhone background, as she had also done the trek. Ken was impressed by Paula’s drink order of Jameson on the rocks and was tricked into thinking Paula was athletic by her casual mention of the century bicycle rides she had done that year. He asked for her number and then jotted down observations about her into his phone: Wharton, Whitney/Cerritos, Cannondale, Amazing.
+								<p>Paula was instantly taken by the fit of Ken’s shirt and his liquid-fueled confidence. She also liked that Ken had set a photo of Machu Picchu as his iPhone background, as she had done the trek too. Ken was impressed by Paula’s drink order of Jameson on the rocks and was tricked into thinking Paula was athletic by her casual mention of the century bicycle rides she had done that year. He asked for her number and then jotted down observations about her into his phone: Wharton, Whitney/Cerritos, Cannondale, Amazing.
 
 </p>
 							</div>
@@ -103,7 +103,7 @@ As we prepare for the wedding, we've been thinking a lot about the friends and f
 | -------------------- | ------------- |
 | 2 - 3 PM  | **Wedding Ceremony** <br> St. Eric's Cathedral <br> [Folkungagatan 46, 118 26 Stockholm, Sweden](https://goo.gl/maps/af1iivMnYZr) <br><br>Doors open at 1:30 PM, ceremony starts promptly at 2:00 PM.<br><br> *Formal Attire<br>Adults-only Celebration* |
 | 3:30 - 5 PM  | **Boat Ride to Artipelag** <br> [Nybrokajen Harbor](https://goo.gl/maps/tejd9CRFi132) <br> Board a classic, turn-of-the-century ship for a cruise through the Stockholm Archpelago to Artipelag <br><br> *Bus transportation will be provided from the ceremony to the harbor* |
-| 5 PM - 12 AM  | **Cocktails, Dinner, and Dancing** <br> [Artipelag Museum](https://artipelag.se/en/)<br><br> *Bus transportation will be provided from the museum to the Miss Clara hotel at the end of the night*| 
+| 5 PM - 12 AM  | **Cocktails, Dinner, and Dancing** <br> [Artipelag Museum](https://artipelag.se/en/)<br><br> *Bus transportation will be provided from the museum to Miss Clara Hotel at the end of the night*| 
 | 12 - 2 AM | **After Party** <br> TBD |
 
 Please dress appropriately for the weather and especially for the boat ride. Stockholm averages 55 °F / 13 °C in early October.
@@ -117,7 +117,7 @@ Please dress appropriately for the weather and especially for the boat ride. Sto
 
 ### Miss Clara Hotel
 
-We have a room block available with multiple options at the Miss Clara Hotel in the Norrmalm neighborhood of Stockholm. We'll be staying here and this is where the bus will drop everyone off after the reception.
+We have a room block available with multiple options at Miss Clara Hotel in the Norrmalm neighborhood of Stockholm. We'll be staying here and this is where the bus will drop everyone off after the reception.
 
 [Miss Clara Hotel](https://missclarahotel.com/) - [Room Descriptions](https://missclarahotel.com/rooms)
 
